@@ -4,9 +4,28 @@
 👩🏻‍💻 An aspiring software develepor<br/>
 👩🏻‍🎓 Currently in my final year at IIIT Allahabad<br/>
 👯 I’m looking to collaborate on **MERN stack projects**
-👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)
+👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)<br>
 💬 Ask me about **react, databases, data structures**
 📫 How to reach me **gauravsahay2468@gmail.com**
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsahay007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsahay007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gauravsahay007/gauravsahay007/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=gauravsahay007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
