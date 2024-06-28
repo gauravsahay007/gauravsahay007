@@ -7,7 +7,6 @@
 👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)<br>
 💬 Ask me about **react, databases, data structures**
 📫 How to reach me **gauravsahay2468@gmail.com**
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
