@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Gaurav Sahay!
 👩🏻‍💻 An aspiring software develepor<br/>
 👩🏻‍🎓 Currently in my final year at IIIT Allahabad<br/>
-👯 I’m looking to collaborate on **MERN stack projects**
-👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)<br>
-💬 Ask me about **react, databases, data structures**
-📫 How to reach me **gauravsahay2468@gmail.com**
+👯 I’m looking to collaborate on **MERN stack projects**<br/>
+👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)<br/>
+💬 Ask me about **react, databases, data structures**<br/>
+📫 How to reach me **gauravsahay2468@gmail.com**<br/>
 
 ###
 
