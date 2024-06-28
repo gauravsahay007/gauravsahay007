@@ -17,18 +17,6 @@
 </div>
 
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gauravsahay007/gauravsahay007/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=gauravsahay007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <div align="left">
