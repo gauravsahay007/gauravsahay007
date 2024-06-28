@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sahay</h1>
-<h3 align="center">A passionate full stack we developer from India</h3>
+<h3 align="center">A passionate Aspiring Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsahay007&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsahay007" /> </p>
 
