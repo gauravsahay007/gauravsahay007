@@ -7,6 +7,7 @@
 👨‍💻 All of my projects are available at [https://portfolio-sahay-gaurav.vercel.app/](https://portfolio-sahay-gaurav.vercel.app/)<br/>
 💬 Ask me about **react, databases, data structures**<br/>
 📫 How to reach me **gauravsahay2468@gmail.com**<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsahay007&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsahay007" /> </p>
 
 ###
 
